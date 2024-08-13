@@ -1,1 +1,1 @@
-for Chrome new tab.
+# for Chrome new tab.
